@@ -1,0 +1,9 @@
+sentence-transformers
+faiss-cpu
+numpy
+google-generativeai
+torch
+transformers
+scikit-learn
+scipy
+huggingface-hub
